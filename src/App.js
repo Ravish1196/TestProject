@@ -1,16 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Tempapp from "./components/Tempapp";
-
-import Apifetching from "./components/Apifetching";
-import Hooks from "./components/Hooks";
-
-import HomeContainer from './containers/HomeContainer'
-
-import HeaderContainer from "./containers/HeaderContainer";
-import Fetch from "./components/Fetch";
-
-import Sample from "./components/Sample";
+import React from "react";
 
 import Login from "./components/Login"
 
